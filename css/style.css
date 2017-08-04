@@ -241,9 +241,13 @@ nav {
     height: 100%;
   }
   .pic-container {
-    width: 80%;
+    width: 100%;
     margin: 1rem auto;
   }
+}
+
+@media only screen and (max-width: 450px) {
+
 }
 /*Footer  */
 .footer {
