@@ -53,6 +53,10 @@ a:hover {
   
 }
 
+.slogan h2 {
+  text-align: center;
+}
+
 .links {
   display: inline-flex;
   margin-right: .5rem;
@@ -93,6 +97,7 @@ nav {
 
   h2 {
     font-size: 1.8rem;
+    
   }
   
 }
@@ -131,6 +136,15 @@ nav {
     background-color: gray;
   }
 
+  .slogan h2 {
+    text-align: center;
+  }
+@media only screen and (max-width: 560px) {
+  body {
+    width: 100%;
+  }
+
+}
   /*drop down button formatting */
   .dropdown {
     position: relative;
@@ -361,3 +375,5 @@ input {
     align-items: center;
   }
 }
+
+
