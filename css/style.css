@@ -275,6 +275,13 @@ footer {
   align-items: center;
 }
 
+@media only screen and (max-width: 760px){
+  footer {
+    display: none;
+  }
+}
+
+
 
 
 /*!!!Contact page Specific!!!  */
@@ -356,7 +363,7 @@ input {
   }
 
   .con-forms {
-    width: 100%;
+    width: 90%;
     border-top: 2px dashed black;
     border-bottom: 2px dashed black;
     padding: 1rem 0px;
