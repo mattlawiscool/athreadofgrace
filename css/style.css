@@ -376,4 +376,9 @@ input {
   }
 }
 
+@media only screen and (max-width: 560px){
+  footer {
+    display: none;
+  }
+}
 
