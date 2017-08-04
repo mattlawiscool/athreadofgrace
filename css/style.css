@@ -363,14 +363,14 @@ input {
   }
 
   .con-forms {
-    width: 90%;
+    width: 75%;
     border-top: 2px dashed black;
     border-bottom: 2px dashed black;
     padding: 1rem 0px;
   }
 
   .visual-contact {
-    width: 50%;
+    width: 75%;
     margin-top: 5rem;
   }
 
